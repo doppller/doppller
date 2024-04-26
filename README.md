@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @doppller
-- 👀 I’m actually interested in asian culture
-- 🌱 I’m currently learning coding for my graduation so is hun is for pratice only
+- 👀 I’m actually interested in foreign culture
+- 🌱 I’m currently learning coding for my graduation so its for study and pratice only
 - 📫 How to reach me Irinel 
 
 <!---
